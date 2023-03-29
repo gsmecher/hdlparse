@@ -33,8 +33,6 @@ setup(name='hdlparse',
     py_modules = [],
     include_package_data = True,
 
-    use_2to3 = True,
-    
     keywords='HDL parser',
     license='MIT',
     classifiers=['Development Status :: 5 - Production/Stable',
